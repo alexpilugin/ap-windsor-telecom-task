@@ -1,5 +1,8 @@
 # ap-windsor-telecom-task (Vue.js dev task)
 
+## Demo
+[https://alexpilugin.github.io/ap-windsor-telecom-task/](https://alexpilugin.github.io/ap-windsor-telecom-task/)
+
 ## Project setup
 ```
 npm install
